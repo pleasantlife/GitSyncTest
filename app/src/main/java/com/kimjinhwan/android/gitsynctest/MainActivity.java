@@ -25,4 +25,8 @@ public class MainActivity extends AppCompatActivity {
         String pizzHut = "피자헛";
 
     }
+
+    private void sushi(){
+         String salmon = "연어";
+    }
 }
