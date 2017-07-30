@@ -18,6 +18,8 @@ public class MainActivity extends AppCompatActivity {
         String popeyes = "파파이스";
 
         pizza();
+        sushi();
+        tv();
     }
 
     private void pizza(){
@@ -28,5 +30,11 @@ public class MainActivity extends AppCompatActivity {
 
     private void sushi(){
          String salmon = "연어";
+    }
+
+    private void tv(){
+        String samsung = "삼성";
+        String lg = "엘지";
+        String sony = "소니";
     }
 }
