@@ -16,5 +16,13 @@ public class MainActivity extends AppCompatActivity {
         String momstouch = "맘스터치";
         String lotteRia = "롯데리아";
         String popeyes = "파파이스";
+
+        pizza();
+    }
+
+    private void pizza(){
+        String domino = "도미노피자";
+        String pizzHut = "피자헛";
+
     }
 }
